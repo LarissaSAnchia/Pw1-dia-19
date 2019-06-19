@@ -1,0 +1,90 @@
+.container{
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	}
+button{
+	border-radius: 10px;
+	background-color: lightgreen;
+	color: darkblue;
+	height: 30px;
+}
+input[type=text]{
+	width: 400px;
+	height: 40px;
+}
+input[type=number]{
+	width: 400px;
+	height: 40px;
+}
+input[value=Login]{
+	width: 100px;
+	height: 40px;
+	background-color: green;
+	border-color: green;
+}
+input[value=Cancel]{
+	width: 100px;
+	height: 40px;
+	background-color: red;
+	border-color: red;
+}
+#footer{
+	background-color: lightgrey;
+	height: 77px;
+	width: 1598px;
+	position: relative;
+	bottom: -600px;
+}
+#left{width: 285px;
+	 height:650px;
+	 background-color: pink;
+	 position: absolute;
+	 right: -23px;
+	 top: 98px;
+}
+#topo{
+	 width:1598px;
+	 height:90px;
+	 background-color: lightgreen;
+}
+#h1{font-size:70px;}
+#lateralesquerda{
+	left: 8px;
+	 width:285px;
+	 height: 650px;
+	 position: absolute;
+	 background-color: pink;
+	 top: 98px;
+}
+#conteudo{
+	 width:1052px;
+	 height:650px;
+	 background-color: lightblue;
+	 top: 98px;
+	 position: absolute;
+	 right: 261px;
+}
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 64px;
+}
+.mew{
+	text-align: center;
+	margin: 13px;
+}
+.me{
+	text-align: justify;
+	margin: 13px;
+	float: left;
+}
+h1{
+	font-size: 15px;
+	text-align: center;
+	margin: 13px;
+}
+.b{
+	text-align: right;
+	font-size: 20px;
+}
